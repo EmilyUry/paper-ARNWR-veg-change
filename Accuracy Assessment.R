@@ -12,7 +12,7 @@
 #' classifiers (one fore each Landsat series, 5, 7 & 8). 
 #' 
 #' We use a k-fold cross-validation (k=5) for generating **user's accuracy**
-#' and **producer's accuracy** for each random forest model. 
+#' and **producer's accuracy** for each random forest model.  
 
 
 
