@@ -5,11 +5,13 @@
 #' date: "May 11, 2020"
 #' output: github_document
 #' ---
-#'
+#' 
+#' Set description here
+
 
 setwd("C:/Users/eau6/Dropbox (Duke Bio_Ea)/My data/111319_Landsat_timeseries")
 
-#setwd("D:/111319_Landsat_timeseries")
+#setwd("D:/111319_Landsat_timeseries") 
 library(sp)
 library(raster)
 library(rgdal)
